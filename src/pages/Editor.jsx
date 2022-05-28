@@ -10,7 +10,6 @@ import {
 } from "@syncfusion/ej2-react-richtexteditor";
 
 import { Header } from "../components";
-import { EditorData } from "../data/dummy";
 
 const Editor = () => {
   return (
